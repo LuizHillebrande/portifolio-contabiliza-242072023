@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+video/*.mov
+*.docx
+*.pptx
+*.xml
+RPOD/
+ESPECIFICACAO CASO DE USO/
